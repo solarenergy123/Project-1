@@ -2,7 +2,10 @@
 The project of GUANs' code and its dataset
 
 Required libraries:
-emd-signal-1.5.2; matplotlib-3.5.3; numpy-1.26.4; numpy-base-1.26.4; pandas-2.0.1; pyemd-1.0.0; python-3.9.12; python-dateutil-2.8.2; python-dotenv-1.0.0; scikit-learn-1.2.2; scipy-1.10.1; sympy-1.12; torch-2.0.1; torchaudio-2.0.2; torchinfo-1.8.0; torchvision-0.15.2
+emd-signal-1.5.2; matplotlib-3.5.3; numpy-1.26.4; numpy-base-1.26.4; 
+pandas-2.0.1; pyemd-1.0.0; python-3.9.12; python-dateutil-2.8.2; 
+python-dotenv-1.0.0; scikit-learn-1.2.2; scipy-1.10.1; sympy-1.12; 
+torch-2.0.1; torchaudio-2.0.2; torchinfo-1.8.0; torchvision-0.15.2
 
 TTS_train.py is used to train TTS-GAN;
 TTS_generate.py is used to generate fake data;
