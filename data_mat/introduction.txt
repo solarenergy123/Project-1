@@ -1,0 +1,6 @@
+m6.pth is the fault diagnosis network trained by the dataset with sufficient sample quantity.
+hunhe.pth is the fault diagnosis network trained by the dataset with fake samples.
+
+All simulation data is saved in "mat" file;
+All normalized data is saved in "nor_data" file;
+All time series is saved in "org_data" file;

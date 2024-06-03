@@ -1,0 +1,8 @@
+All Preprocessed data are saved in "data" file;
+All noisy data are saved in "noise" file;
+All de-noised data are saved in "de-noise" file;
+All normalized data are saved in "nor_data" file;
+
+noise_deal.py is used to de-noise;
+nor.py is used to normalize;
+slice.py is used to divide normalized data.
